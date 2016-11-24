@@ -1,0 +1,23 @@
+{
+  "memberId": "712903231",
+  "operation": "WRITE",
+  "deviceId": "123821-asvdjas-sadgsaj",
+  "userName": "shahzad@canbrand.in",
+  "stepCount": [
+    {
+      "start": "12/11/2016 10:12:12",
+      "end": "12/11/2016 06:45:23",
+      "steps": 234
+    },
+    {
+      "start": "12/11/2016 10:12:42",
+      "end": "12/11/2016 11:40:23",
+      "steps": 238
+    },
+    {
+      "start": "15/11/2016 10:12:58",
+      "end": "12/11/2016 11:45:23",
+      "steps": 235
+    }
+  ]
+}
